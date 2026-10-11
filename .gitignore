@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Zyvanta Kaggle submission archive
+Zyvanta-kaggle.zip
